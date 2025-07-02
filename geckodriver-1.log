@@ -1,0 +1,23 @@
+1751441985810	geckodriver	INFO	Listening on 127.0.0.1:62300
+1751441988975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FJ\\AppData\\Local\\Temp\\rust_mozprofileSCI3cL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1751441989582	Marionette	INFO	Marionette enabled
+1751441989832	Marionette	INFO	Listening on port 62311
+WebDriver BiDi listening on ws://127.0.0.1:62301
+Read port: 62311
+1751441990069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: CustomizableUI: 
+  Could not localize property 'fxms-bmb-button.tooltiptext'.
+JavaScript warning: https://www.gstatic.com/og/_/js/k=og.asy.en_US.L3XKY0ZnUXM.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTujTPyVusPJdgTkgGC2Odx28Wzeww, line 102: Script terminated by timeout at:
+_.sg@https://www.gstatic.com/og/_/js/k=og.asy.en_US.L3XKY0ZnUXM.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTujTPyVusPJdgTkgGC2Odx28Wzeww:102:292
+_.tg@https://www.gstatic.com/og/_/js/k=og.asy.en_US.L3XKY0ZnUXM.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTujTPyVusPJdgTkgGC2Odx28Wzeww:102:438
+Ng@https://www.gstatic.com/og/_/js/k=og.asy.en_US.L3XKY0ZnUXM.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTujTPyVusPJdgTkgGC2Odx28Wzeww:111:38
+b@https://www.gstatic.com/og/_/js/k=og.asy.en_US.L3XKY0ZnUXM.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTujTPyVusPJdgTkgGC2Odx28Wzeww:108:471
+
+1751442139369	Marionette	INFO	Stopped listening on port 62311
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 101: Error: Unknown callback
